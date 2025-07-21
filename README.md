@@ -2,6 +2,8 @@
 
 CLI tool to fetch, search, and display torrent information with colored output.
 
+[![Example Usage](https://github.com/cumulus13/torrentsearch/raw/refs/heads/master/example_usage.gif)](https://github.com/cumulus13/torrentsearch/raw/refs/heads/master/example_usage.gif)
+
 ## Features
 
 - **Home**: List torrents by category (TV Shows, Movies, Music, Games, Applications, Other, Top Torrents Last Week).
